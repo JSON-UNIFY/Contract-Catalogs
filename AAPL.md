@@ -1,6 +1,3 @@
-data delete
-{}
-lineage delete
 ## Concepts - Headers
 Any documentation or the concepts used in the headers of your data table.
 ```
